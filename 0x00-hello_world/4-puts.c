@@ -3,9 +3,7 @@
 /**
  *main - Entry point of the program
  *
- * Decription: prints or displays "Programmming is like building a multilingual puzzle"
- *
- * Return: Always 0 iif no error in the running of the program
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
